@@ -1,0 +1,10 @@
+html {
+    background-color: #1f081e;
+    color: white;
+    font-family: monospace;
+    text-align: center;
+}
+
+#title {
+    text-decoration: underline;
+}
