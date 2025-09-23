@@ -10,7 +10,10 @@ document.addEventListener('DOMContentLoaded', function () {
         "ace attorney🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤",
         "directed by 21 savage",
         "gatekeep ts :3",
-        "mysticful.github.io"
+        "mysticful.github.io",
+		"what do you think of roleplay?",
+		"make it bounce!",
+		"shoutout to my bff <3"
 	];
 
 	var howmany = tell.length;
