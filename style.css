@@ -50,3 +50,10 @@ color: white;
   max-width: 700px;
   margin: 0 auto;
 }
+
+#time {
+    position: fixed;
+    bottom: 10px;
+    left: 10px;
+    font-size: 12px;
+}
