@@ -23,32 +23,17 @@ body {
     height: 200px;
      justify-content: center;
   align-items: center;
+    transition: all 0.2s ease-in-out;
 }
 
-.plybttn:hover {
-  color: white;
+.bttn:hover {
   transform: scale(1.06);
-}
-
-.plybttn {
-    background-color: blue;
-    color: #fff;
-    border: none;
-    padding: 10px 20px;
-    border-radius: 5px;
-    cursor: pointer;
-    font-size: 18px;
-    transition: 1s;
-    text-decoration: none;
-    align-items: center;
-    justify-content: center;
-    text-align: center;
 }
 
   .bttn-container {
     display: flex;
     flex-wrap: wrap;
-    gap: 20px;
+    gap: 30px;
       justify-content: center;
   align-items: center;
 text-align: center;
