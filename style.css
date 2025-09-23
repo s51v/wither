@@ -1,4 +1,4 @@
-html {
+html,body {
   min-height: 100vh;
   display: flex;
   justify-content: center;
@@ -8,6 +8,10 @@ html {
     color: white;
     font-family: monospace;
     text-align: center;
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
 }
 
 #title {
