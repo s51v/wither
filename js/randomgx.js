@@ -6,8 +6,11 @@ function funcranGX() {
         "/gx/cuphead.html",
         "/gx/ddlc.html",
         "/gx/hollowknight.html",
+        "/gx/hotlinemiami.html",
         "/gx/mariokartds.html",
         "/gx/OMORI.html",
+        "/gx/slope.html",
+        "/gx/sm64.html",
         "/gx/ULTRAKILL.html",
         "/gx/webfishing.html"
       ];
