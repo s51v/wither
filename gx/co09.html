@@ -1,0 +1,68 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>C'09</title>
+</head>
+<style>
+*{
+    margin: 0;
+    border: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.big{
+    width: 100vw;
+    height: 100vh;
+}
+
+button{
+    padding: 5px;
+    border: 1px solid black;
+    border-radius: 15px;
+}
+</style>
+<body>
+    <div class="center big">
+        <h1>Alla class of 09 games</h1>
+
+        <div style="height: 10px;"></div>
+
+        <kbd style="font-family: monospace;">These will prob take a very long time to load</kbd>
+
+        <div style="height: 10px;"></div>
+
+        <div class="center" style="flex-direction: row;">
+            <button onclick="openAB('https://cas812lk.vercel.app/C09/index.html')"><p>Class of '09</p></button>
+            <div style="width: 25px;"></div>
+            <button onclick="openAB('https://cas812lk.vercel.app/C09/index.html')"><p>Class of '09 | The Re-up</p></button>
+            <div style="width: 25px;"></div>
+            <button onclick="openAB('https://cas812lk.vercel.app/C09/index.html')"><p>Class of '09 | The Flip Side</p></button>
+        </div>
+    </div>
+</body>
+<script>
+function openAB(url) {
+    win = window.open();
+    win.document.body.style.margin = '0';
+    win.document.body.style.height = '100vh';
+    var embed = win.document.createElement('embed');
+    embed.style.border = 'none';
+    embed.style.width = '100%';
+    embed.style.height = '100%';
+    embed.style.margin = '0';
+    embed.src = window.location.origin + url;
+    win.document.body.appendChild(embed);
+}
+</script>
+</html>
