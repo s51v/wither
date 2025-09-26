@@ -1,5 +1,6 @@
 function funcranGX() {
       const gx = [
+        "/gx/10minstilldawn.html",
         "/gx/aceattorney.html",
         "/gx/badparenting.html",
         "/gx/BLOODMONEY!.html",

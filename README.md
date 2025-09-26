@@ -5,3 +5,9 @@ from it being easy on storage, to its simplicity yet marvelous collection of gam
 
 # license
 wither has been filed under the [MIT License](https://choosealicense.com/licenses/mit/) since 9/20/25 (mm/dd/yy)
+
+# credits
+Games: [seraph](https://github.com/a456pur/seraph), gn-math, and me! :D
+
+# request a takedown
+email me at lovedrivenbystars@gmail.com
