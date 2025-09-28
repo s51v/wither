@@ -5,6 +5,7 @@ function funcranGX() {
         "/gx/badparenting.html",
         "/gx/BLOODMONEY!.html",
         "/gx/co09.html",
+        "/gx/cookingmama.html",
         "/gx/cuphead.html",
         "/gx/ddlc.html",
         "/gx/hollowknight.html",
