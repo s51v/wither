@@ -31,12 +31,13 @@ document.addEventListener('DOMContentLoaded', function () {
 		"Yeah, i know she was so surprised.",
 		"Really?",
 		"Oh for SURE! I mean, it wasn't really big, just a little bug, but flower went CRAZY!",
-		"fun fact: one of the developers has a crush on eternal sugar cookie from crk",
+		"fun fact: the creator of this site has a shrine of eternal sugar cookie from crk",
 		"Let silence speak.",
 		"for any hispanic people using this website, tu madre!!!!",
 		"I will never, forget what i've done.",
 		"Always pleased to meet new friends!",
-		"ive spent 5 minutes writing nothing but cookie run kingdom and bfdi quotes on the quote.js file somebody save me"
+		"ive spent 5 minutes writing nothing but cookie run kingdom and bfdi quotes on the quote.js file somebody save me",
+		"i gently open the door.."
 	];
 
 	var howmany = tell.length;
