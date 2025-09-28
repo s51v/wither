@@ -69,11 +69,12 @@ img {
     color: white;
 }
 
-input#gxSearch {
+input {
   background: #370909;
   color: white;
   width: 400px;
   max-width: 90vw;
+  border: 2px solid #170509;
   padding: 10px;
   border-radius: 20px;
   outline: none;
